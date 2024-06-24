@@ -53,9 +53,10 @@ body {
 }
 
 .rk-header {
-  background-color: #fff;
+  background-color: #6d85b8;
   position: relative;
   z-index: 5;
+  
 }
 .top-fixed .rk-header {
   position: fixed;
@@ -234,7 +235,7 @@ body {
 }
 
 .rk-footer__text {
-  color: #787878;
+  color: #180842;
   font-size: .75rem;
   margin-bottom: .875rem;
 }
@@ -276,6 +277,7 @@ body {
 .rk-social-btn svg {
   height: 100%;
   width: 100%;
+  color: rgb(255, 163, 88);
 }
 
 .rk-layout-ctrl-cont {
